@@ -1,7 +1,7 @@
 # Predicting Visual Importance Across Graphic Design Types : Jupyter Notebook version
 
 To execute the iPython Notebook in a Binder Jupyter : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljegou/visimportance-notebook/HEAD)
-**Currently inactive, too much RAM is used***
+  **Currently inactive, too much RAM is used**
 
 ### Source code by Zoya Bylinskii et al. with Caffe AI models : https://github.com/cvzoya/visimportance
 
