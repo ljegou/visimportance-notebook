@@ -1,6 +1,6 @@
 # Predicting Visual Importance Across Graphic Design Types : Jupyter Notebook version
 
-To execute the iPython Notebook in a Binder Jupyter : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/transcarto/predimportance-public/HEAD)
+To execute the iPython Notebook in a Binder Jupyter : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljegou/visimportance-notebook/HEAD)
 
 ### Source code by Zoya Bylinskii et al. with Caffe AI models : https://github.com/cvzoya/visimportance
 
